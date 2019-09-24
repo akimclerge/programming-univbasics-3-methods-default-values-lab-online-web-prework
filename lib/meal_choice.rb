@@ -5,5 +5,7 @@ end
 
  
 def meal_choice (veg1 = "broccoli" , veg2 = "macaroni", protien = "tofu")
-  p 
+  p "A plate of #{protien} with #{veg1} and #{veg2}."
 end 
+
+if meal_choice =
